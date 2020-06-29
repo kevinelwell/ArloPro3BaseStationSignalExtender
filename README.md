@@ -1,4 +1,4 @@
-# ArloPro3BaseStationSignalExtender
+# Arlo Pro 3 Base Station Signal Extender
 This repo will provide information on how i extended the signal from my Arlo Pro 3 base station using readily available parts off Amazon.
 
 (DISCLAIMER: I am not an expert in wireless protocols, signals. Additionally, please understand if you crack open a base station, you will probably void your warranty)
